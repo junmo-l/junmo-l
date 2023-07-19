@@ -27,6 +27,8 @@
    <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/joho-C8202B?style=flat-square&logo=joho&logoColor=white"/></a>
    <br/>
 ### 🏃‍♂️Activity🏃‍♂️<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlq1502)](https://solved.ac/wlq1502)
