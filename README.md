@@ -23,17 +23,18 @@
    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
    <br/>
 #### Other Tool<br>
-   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
    <br/>
    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
    <br/>
-   <img src="https://img.shields.io/badge/powerbi-F2C811?style=flat-square&logo=PowerBI&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/zoho-C8202B?style=flat-square&logo=Zoho&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=Zoho&logoColor=white"/></a>
    <br/>
+   
 ### 🏃‍♂️Activity🏃‍♂️<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlq1502)](https://solved.ac/wlq1502)
    <br/>
