@@ -56,4 +56,4 @@
 <br/>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&section=header&height=80&text=Thank%20You&animation=twinkling&fontAlignY=60)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=header&height=80&text=Thank%20You&animation=twinkling&fontAlignY=60)
