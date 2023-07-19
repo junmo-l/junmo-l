@@ -37,5 +37,9 @@
 <!-- <a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kim-458933252/"/></a> -->
 <!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&section=header&height=80&text=Thank%20You&animation=twinkling&fontAlignY=60)
