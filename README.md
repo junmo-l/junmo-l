@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=250&text=Junmo%20Lee.&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&height=250&text=Junmo%20Lee.&animation=twinkling&fontAlignY=40&fontColor=EEEEEE)
 
 <div align="center">
    
